@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net" modified="2022-02-12T11:32:57.065Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.87 Safari/537.36" etag="A3nPQ6lnew0kQLo71Qf4" version="16.5.6" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1038" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="W7avnOcS8wcJJDYS4NNf-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="W7avnOcS8wcJJDYS4NNf-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W7avnOcS8wcJJDYS4NNf-0" value="Start" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="270" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W7avnOcS8wcJJDYS4NNf-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;exitX=0.469;exitY=1.034;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="W7avnOcS8wcJJDYS4NNf-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="333" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="333" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W7avnOcS8wcJJDYS4NNf-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="W7avnOcS8wcJJDYS4NNf-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W7avnOcS8wcJJDYS4NNf-3" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Register to get vaccinated" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="230" y="220" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="W7avnOcS8wcJJDYS4NNf-5" value="Enter login details&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="270" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W7avnOcS8wcJJDYS4NNf-7" value="Create an account" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="540" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

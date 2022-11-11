@@ -1,0 +1,30 @@
+<mxfile host="app.diagrams.net" modified="2022-02-18T07:56:43.175Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.55" etag="hVTiNPckW0TTrUaNC69-" version="16.6.1" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1102" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="BuiQUnqwnBU72Iu3UpvT-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="150" as="targetPoint" />
+            <mxPoint x="400" y="80" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BuiQUnqwnBU72Iu3UpvT-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BuiQUnqwnBU72Iu3UpvT-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BuiQUnqwnBU72Iu3UpvT-2" value="SELECT uidai, first_name, last_name, age, gender, vaccines.name, centers.name, centers.address, centers.district,&amp;nbsp; centers.state, centers.pincode, slot FROM registration INNER JOIN vaccines ON registration.vaccine=vaccines.vacc_id INNER JOIN centers ON registration.center=centers.center_id WHERE email=&quot;{0}&quot;;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="280" y="150" width="240" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="BuiQUnqwnBU72Iu3UpvT-6" value="Aadhaar Number , First Name , Last Name , Age , Gender , Vaccine Type , Vaccination Center , Vaccination Timeslot&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="255" y="390" width="290" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="eRFgEbbwjtseHK3JOu_Y-0" value="START" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="340" y="10" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

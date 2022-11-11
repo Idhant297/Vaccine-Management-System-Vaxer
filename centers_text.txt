@@ -1,0 +1,5 @@
+123498	Alone_Hospital			11,_Netaji_Subhas_Road	Kolkata			West_Bengal	700034	
+123499  Homeless_Hospital		22,_Banerjee_Para_Road	North_24_Paraganas	West_Bengal	700127
+123500	Dedicated_Clinic		325/A_Brahma_Samaj_Road	South_24_Paraganas	West_Bengal	700486
+123501	Helping_Hand_Nursing_Home	658/24_Lepcha_Road	Darjeeling		West_Bengal	715895
+123502	St._Mary_Clinic			59_Gandhi_Road		Birbhum			West_Bengal	700989	
