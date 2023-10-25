@@ -5,5 +5,10 @@ The program is designed for an effective data management system with the help of
 
 Finally, every effort has been made to make this program as user-friendly as possible, from the menus and submenus, which allow users to intuitively find what they want, to the clear instructions and error messages that guide the user.
 
+## Screen Shots:
+![CleanShot 2023-10-25 at 16 04 26@2x](https://github.com/Idhant297/Vaccine-Management-System-Vaxer/assets/84667585/438830ca-6de2-4ead-938f-4707b1bda213)
+
+![CleanShot 2023-10-25 at 16 05 12@2x](https://github.com/Idhant297/Vaccine-Management-System-Vaxer/assets/84667585/12d22a6f-287d-4b38-8e7e-a67b3ca8e2a6)
+
 
 Made by Idhant Gulati, Vanshdeep Singh Kohli, and Aditya Singh
